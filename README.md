@@ -1,6 +1,6 @@
 
 
-# Mi Card
+# Business Card App
 
 ## My Goal
 
